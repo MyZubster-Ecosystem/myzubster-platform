@@ -49,3 +49,11 @@ Do not commit tokens, passwords, wallet seeds, private keys or production infras
 - [myzubster](https://github.com/MyZubster-Ecosystem/myzubster) — current core/canonical contracts
 - [MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway) — integration boundary
 - [myzubster-docs](https://github.com/MyZubster-Ecosystem/myzubster-docs) — documentation hub
+
+---
+
+## Official project identity
+
+MyZubster is maintained within the [MyZubster-Ecosystem](https://github.com/MyZubster-Ecosystem) organization. Canonical public administrator/maintainer reference: **[Daniel Ioni (@DanielIoni-creator)](https://github.com/DanielIoni-creator)**.
+
+This link is a stable public project-identity reference. By itself, it is not a cryptographic signature or legal identity certification.
